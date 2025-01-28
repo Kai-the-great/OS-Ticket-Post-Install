@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Admin Panel -> Agents -> Departments
 </p>
 <br />
 
@@ -44,7 +44,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Admin Panel -> Agents -> Teams
+
 </p>
 <br />
 
@@ -54,7 +55,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Admin Panel -> Agents -> Add New
+You may place an agent in the desired department in this menu.
 </p>
 <br />
 
@@ -65,4 +67,13 @@ Admin Panel -> Manage -> SLA
 Typically Sev-A (Grace Period: 1 hour, Schedule: 24/7)
           Sev-B (Grace Period: 4-6 hours, Schedule: 24/7)
           Sev-C (Grace Period: 8 hours, Business hours)
+
+<br />
+
+
+<img width="1440" alt="Screenshot 2025-01-16 at 12 47 07 PM" src="https://github.com/user-attachments/assets/655e47e1-22dc-4419-919b-11dfa2131061" />
+</p>
+
+Admin Panel -> Manage -> Help Topics
+
 
